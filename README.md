@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">Born and raised in Zamboanga City, Philippines</h3>
 
 - Full-stack developer
+
 Check my Website https://kusman.me/
 
 
