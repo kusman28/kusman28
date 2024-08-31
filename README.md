@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm K. Usman</h1>
 <h3 align="center">Born and raised in Zamboanga City, Philippines</h3>
 
-- 🌱 A full-stack developer
-- 👨‍💻 Check my Website https://kusman.me/
+- Full-stack developer
+Check my Website https://kusman.me/
 
 
