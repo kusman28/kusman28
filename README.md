@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm K. Usman</h1>
 <h3 align="center">A Full-stack developer</h3>
-<h3 align="center">[A Full-stack developer](https://kusman.me/)</h3>
+<h3 align="center">https://kusman.me</h3>
 
 
 
